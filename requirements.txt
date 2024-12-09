@@ -1,0 +1,5 @@
+numpy
+onnxruntime
+opencv_python
+setuptools
+ultralytics
